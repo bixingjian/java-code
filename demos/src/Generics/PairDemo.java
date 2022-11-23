@@ -1,4 +1,4 @@
-package GenericsDemo;
+package Generics;
 
 public class PairDemo {
     public static void main(String[] args) {
