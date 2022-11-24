@@ -2,7 +2,7 @@ package Collection;
 
 import java.util.HashSet;
 
-class Employee {
+class Employee { // protected?
     public String name;
     public String age;
 
