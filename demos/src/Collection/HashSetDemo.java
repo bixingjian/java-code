@@ -52,7 +52,7 @@ public class HashSetDemo
 
 		// To union two sets we use the addAll method.
 		HashSet<String> setUnion = new HashSet<String>(round);
-		round.addAll(green);
+		setUnion.addAll(green);
 		System.out.println("\nUnion of green and round:");
 		outputSet(setUnion);
 
