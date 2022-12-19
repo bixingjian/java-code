@@ -1,0 +1,20 @@
+a
+12
+asdfasf
+
+niko
+11
+Fortunate entry fragger
+
+niKo
+9
+Second Fortunate entry fragger
+
+nIKO
+7
+So-so Fortunate entry fragger
+
+nIko
+2
+Least Fortunate entry fragger
+
